@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## You can install following dependencies in the project directory using npm intall command, once you download this repo in local
+
+history - 4.10.1
+react - 16.13.1
+react-dom - 16.13.1
+react-redux - 7.2.1
+react-router-dom - 5.2.0
+redux - 4.0.5
+redux-logger - 4.0.0
+redux-thunk - 2.3.0
+
+
 In the project directory, you can run:
 
 ### `npm start`
