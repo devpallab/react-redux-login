@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+as the api are not working for me (specially login api), hence I have created fake api calls to store data in localstorage and showing from there.
+
 ## You can install following dependencies in the project directory using npm intall command, once you download this repo in local
 
 history - 4.10.1
